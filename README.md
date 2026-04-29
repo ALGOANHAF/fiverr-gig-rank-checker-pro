@@ -19,14 +19,12 @@
 
 ## 📸 Screenshots
 
-> **Note to Developer:** Upload your 2 screenshots to your GitHub repository, then click on them, copy their "Raw" image links, and replace the bracketed text below!
-
 <div align="center">
-  <a href="#">
-    <img src="[INSERT_LINK_TO_SCREENSHOT_1_HERE]" alt="App Screenshot 1" width="48%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <a href="images/screenshot1.png">
+    <img src="images/screenshot1.png" alt="App Screenshot 1" width="48%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
   </a>
-  <a href="#">
-    <img src="[INSERT_LINK_TO_SCREENSHOT_2_HERE]" alt="App Screenshot 2" width="48%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <a href="images/screenshot2.png">
+    <img src="images/screenshot2.png" alt="App Screenshot 2" width="48%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
   </a>
 </div>
 
